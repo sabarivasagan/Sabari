@@ -1,2 +1,0 @@
-# Sabari
-Created with CodeSandbox
