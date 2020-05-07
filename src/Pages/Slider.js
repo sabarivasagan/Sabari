@@ -14,8 +14,8 @@ export class Slider extends React.Component {
               alt="First slide"
             />
             <Carousel.Caption>
-              <h3>First slide label</h3>
-              <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+              <h3>Android Developer</h3>
+              <p>Hello, I'm a awesome android developer</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -26,8 +26,11 @@ export class Slider extends React.Component {
             />
 
             <Carousel.Caption>
-              <h3>Second slide label</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h3>UI/UX Developer</h3>
+              <p>
+                I develop website using Bootstrap and Materialize CSS front-end
+                framework..
+              </p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -38,10 +41,8 @@ export class Slider extends React.Component {
             />
 
             <Carousel.Caption>
-              <h3>Third slide label</h3>
-              <p>
-                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-              </p>
+              <h3>Web designer</h3>
+              <p>Amazing free responsive website for free, enjoy!!!</p>
             </Carousel.Caption>
           </Carousel.Item>
         </Carousel>

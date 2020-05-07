@@ -5,7 +5,7 @@ export class Header extends React.Component {
   render() {
     return (
       <div>
-        <Navbar bg="dark" variant="dark">
+        <Navbar bg="primary" variant="dark">
           <Navbar.Brand href="#home">Sabari vasagan</Navbar.Brand>
         </Navbar>
       </div>
