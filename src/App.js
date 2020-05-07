@@ -1,18 +1,6 @@
 import React from "react";
 import "./styles.css";
-import { Button } from 'react-bootstrap';
-
-class Header extends React.Component
-{
-  render()
-  {
-    return (
-      <div>
-        <Button variant="primary">Primary</Button>
-    </div>
-    );
-  }
-}
+import { Header } from "./Pages/Header";
 
 export default function App() {
   return (
