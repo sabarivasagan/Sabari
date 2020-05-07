@@ -6,7 +6,7 @@ export class Header extends React.Component {
     return (
       <div>
         <Navbar bg="dark" variant="dark">
-          <Navbar.Brand href="#home">React Bootstrap</Navbar.Brand>
+          <Navbar.Brand href="#home">Work from home</Navbar.Brand>
         </Navbar>
       </div>
     );
