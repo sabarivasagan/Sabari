@@ -3,3 +3,7 @@
   height: 400px;
   object-fit: cover;
 }
+
+.personal-details-marigin {
+  margin: 90px;
+}
